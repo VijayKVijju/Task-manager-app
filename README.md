@@ -5,11 +5,14 @@ Click Sign Up.
 Enter your email & password.
 Tap Register to create your account.
 
+
+
 Login
 ------------------
 On the login screen, enter your email & password.
-
 Tap Login to access your task list.
+
+
 
 Task Management
 -----------------------------
@@ -26,6 +29,8 @@ Tap the checkbox next to a task to mark it as done.
 Delete a Task
 
 Tap the  delete icon to remove a task.
+
+
 
  Tech Stack
 ---------------------------------
