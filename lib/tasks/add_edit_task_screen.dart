@@ -32,7 +32,7 @@ class _AddEditTaskScreenState extends State<AddEditTaskScreen> {
   Future<void> saveTask() async {
     final user = FirebaseAuth.instance.currentUser!;
     final tasks = FirebaseFirestore.instance.collection("tasks");
-
+//task details
     if (widget.taskId == null) {
       await tasks.add({
         "title": titleCtrl.text.trim(),
