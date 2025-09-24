@@ -9,7 +9,7 @@ class Task {
     return Task(
       id: id,
       title: data['title'] ?? '',
-      completed: data['completed'] ?? false,
+      completed: data['Completed'] ?? false,
     );
   }
 
