@@ -15,7 +15,7 @@ Tap Login to access your task list.
 
 
 Task Management
------------------------------
+---------------------------
 Add a Task
 
 Type your task in the New Task field.
