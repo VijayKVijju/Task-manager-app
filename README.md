@@ -8,7 +8,7 @@ Tap Register to create your account.
 
 
 Login
-------------------
+___________________________________________________
 On the login screen, enter your email & password.
 Tap Login to access your task list.
 
